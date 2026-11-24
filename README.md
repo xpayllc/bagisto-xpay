@@ -4,7 +4,9 @@ Official XPay extension distribution from X PAY LAB LIMITED.
 
 **[Download XPay Bagisto 0.3.1](https://github.com/xpayllc/bagisto-xpay/raw/refs/heads/main/XPay-Bagisto-0.3.1.zip)** · [Changelog](CHANGELOG.md) · [Checksums](SHA256SUMS.txt)
 
-This is the 20 November 2026 distribution-layout revision requested by Webkul. The previous v0.3.1 technical review was completed; publication of the revised package on the Bagisto Extensions page remains pending. Local regression: 31 tests, 230 assertions; formatting: 28 PHP files. Tests use simulated external payment responses; no new live-money test is claimed.
+Listed in the [Bagisto Extensions marketplace](https://bagisto.com/en/extensions/xpay-x402-usdc-base/). This is the 20 November 2026 distribution-layout revision. Local regression: 31 tests, 230 assertions; formatting: 28 PHP files. Tests use simulated external payment responses; no new live-money test is claimed.
+
+For WordPress / WooCommerce and OpenCart packages, visit the [official XPay extensions collection](https://github.com/xpayllc/xpay-extensions).
 
 
 Version 0.3.1. Minimum Bagisto version: **2.5.1**. PHP **8.4+**, Laravel **13**, HTTPS and a shared Laravel atomic-lock cache are required. Tested with MySQL, MariaDB and PostgreSQL. Base mainnet is supported. BNB Chain is displayed as **Coming soon** and cannot be selected or called in this release.
